@@ -58,6 +58,7 @@ contract EIP20 {
     }
 
     function approve(address _spender, uint256 _value) public returns (bool) {
+        emit Approval(msg.sender, _spender, _value);
         permissions_[msg.sender][_spender] += _value;
         return true;
     }
