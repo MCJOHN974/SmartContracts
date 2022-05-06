@@ -1,0 +1,8 @@
+console.log("bebra")
+personal
+eth
+eth.accounts[0]
+eth.getBalance(eth.accounts[0])
+miner
+miner.start()
+miner.stop()
