@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Etherium/Constract.sol": "EIP"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Etherium/Constract.sol": {
+			"keccak256": "0xbeb4471bf10ba46663ce8500da2c7db2f769fc7e2d40ec03b915393de9f3758e",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://a38abcd064c4f4e2de4c55ef13387267bf372fe25c3491beb380f1c5a05ce5bd",
+				"dweb:/ipfs/QmT5EuwZABEknVSRfYkMG7uPVzAxe7k6t1J93XaLD5cmwD"
+			]
+		}
+	},
+	"version": 1
+}
